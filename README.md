@@ -1,1 +1,0 @@
-# Array-programs-in-python

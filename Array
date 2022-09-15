@@ -1,0 +1,6 @@
+# Missing num in a arrary of 1 to n
+
+arr=[1,2,4,6,9,10]
+missing_elements=[item for item in range (arr[0], arr[-1]+1) if item not in arr]
+print(missing_elements)
+
